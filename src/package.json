@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "prop-types": "15.7.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "4.2.0"
+  },
+  "keywords": [],
+  "name": "color-picker",
+  "description": "Dropdown Color Picker with Ant Design."
+}
