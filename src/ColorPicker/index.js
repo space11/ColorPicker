@@ -12,7 +12,7 @@ const ColorPicker = ({ icon, onColorSelect }) => {
     const selectedColor = event.key;
     onColorSelect(selectedColor);
   };
-  
+
   const menu = (
     <Menu onClick={onColorSelectLocal}>
       {ColorsList.map(color => (

@@ -10,7 +10,8 @@ const ColorsList = [
   { hexValue: "FBC02D", label: "yellow" },
   { hexValue: "F57C00", label: "orange" },
   { hexValue: "5D4037", label: "brown" },
-  { hexValue: "ffffff", label: "white" }
+  { hexValue: "ffffff", label: "white" },
+  { hexValue: "000000", label: "black" }
 ];
 
 export default ColorsList;
